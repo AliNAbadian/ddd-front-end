@@ -1,8 +1,3 @@
----
-description: Frontend DDD (TypeScript, React, TanStack Query) with Tailwind CSS for presentation styling.
-alwaysApply: true
----
-
 # Frontend DDD Architecture Rules with TypeScript and React
 
 ## Core Principles
